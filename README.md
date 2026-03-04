@@ -31,7 +31,6 @@ MLProject/
 - Scikit-learn  
 - Pandas  
 - NumPy  
-- Pickle  
 
 ---
 
